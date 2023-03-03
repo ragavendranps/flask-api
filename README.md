@@ -31,5 +31,5 @@ This will deploy the api-server and its service in minikube. This can be verifie
 kubectl get deployments
 kubectl get service
 ```
-Since the service is configured via NodePort, the application can be browsed <nodeip>:<nodeport>
+Since the service is configured via NodePort, the application can be browsed nodeip:nodeport
 

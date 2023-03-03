@@ -1,0 +1,9 @@
+apiVersion: v2
+name: flask-api-chart
+description: Helm chart for Flask API
+type: application
+version: 0.1.0
+appVersion: "1.0.0"
+maintainers:
+- email: ragavendranps@gmail.com
+  name: Ragavendran

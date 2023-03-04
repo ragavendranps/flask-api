@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: ragps/flask-api
-  tag: "1.0.0"
+  tag: "latest"
   pullPolicy: IfNotPresent
 
 service:
